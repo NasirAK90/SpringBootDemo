@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RestOutboundGatewayApplication {
+public class SoapInboundGatewayApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RestOutboundGatewayApplication.class, args);
+		SpringApplication.run(SoapInboundGatewayApplication.class, args);
 	}
 
 }
