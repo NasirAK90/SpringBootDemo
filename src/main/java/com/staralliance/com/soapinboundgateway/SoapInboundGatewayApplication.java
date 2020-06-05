@@ -1,4 +1,4 @@
-package com.staralliance.com.restoutboundgateway;
+package com.staralliance.com.soapinboundgateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
