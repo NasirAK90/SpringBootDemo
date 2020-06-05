@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.staralliance.com</groupId>
-	<artifactId>rest-outbound-gateway</artifactId>
+	<artifactId>soap-inbound-gateway</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>rest-outbound-gateway</name>
-	<description>Demo project for Spring Boot</description>
+	<name>soap-inbound-gateway</name>
+	<description>Demo project for Spring Boot SOAP Inbound</description>
 
 	<properties>
 		<java.version>1.8</java.version>
